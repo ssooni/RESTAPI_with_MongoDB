@@ -46,7 +46,7 @@ public class PersonController {
 		PersonDomain target = personRepo.findOndByName(name);
 		personRepo.delete(target);
 	}
-	
+	// add 
 	@RequestMapping(value="/{name}", method=RequestMethod.PUT)
 	public void update(@RequestBody PersonDomain person) {
 		personRepo.save(person);
