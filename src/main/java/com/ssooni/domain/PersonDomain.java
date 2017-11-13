@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package com.ssooni.domain;
 
 import org.springframework.data.annotation.Id;
@@ -98,4 +97,3 @@ public class PersonDomain {
 	
 	
 }
->>>>>>> a797408b6dd39f91820e526b462b6e4cae21aa95
