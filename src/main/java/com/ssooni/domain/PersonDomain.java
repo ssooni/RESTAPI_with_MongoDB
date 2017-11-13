@@ -13,8 +13,6 @@ public class PersonDomain {
 	private String name;
 	private int age;
 	
-	
-	
 	public String getId() {
 		return id;
 	}
