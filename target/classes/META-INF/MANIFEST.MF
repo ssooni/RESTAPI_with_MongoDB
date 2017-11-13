@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Implementation-Title: mongoDemo
 Implementation-Version: 0.0.1-SNAPSHOT
@@ -8,3 +9,15 @@ Implementation-URL: http://projects.spring.io/spring-boot/mongoDemo/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
+=======
+Manifest-Version: 1.0
+Implementation-Title: mongoDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ADMINIBM
+Implementation-Vendor-Id: com.ssooni
+Build-Jdk: 1.8.0_20
+Implementation-URL: http://projects.spring.io/spring-boot/mongoDemo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
+>>>>>>> a797408b6dd39f91820e526b462b6e4cae21aa95
