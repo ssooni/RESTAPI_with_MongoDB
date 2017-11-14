@@ -14,7 +14,6 @@ public class PersonDomain {
 	private int age;
 	
 	
-	
 	public String getId() {
 		return id;
 	}
