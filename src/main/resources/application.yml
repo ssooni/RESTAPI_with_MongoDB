@@ -1,0 +1,22 @@
+spring:
+  profiles: mainDB
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: instagram
+
+
+---
+
+spring:
+  profiles: logDB
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: log
+
+
+
+server.port: 9000
